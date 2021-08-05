@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { Link,BrowserRouter } from 'react-router-dom';
+import React from 'react';
+// import { Link,BrowserRouter } from 'react-router-dom';
 
 function SideNav(){
     return(

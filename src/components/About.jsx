@@ -1,4 +1,4 @@
-  import React, { Component } from 'react';
+  import React from 'react';
 import profile from "../images/profilepic.jpg";
   const About=()=>{
     return(

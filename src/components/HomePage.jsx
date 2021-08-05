@@ -24,7 +24,7 @@ class HomePage extends Component {
                         </div>
                         <div className="details">
                             <h3>Java Developer</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos illum tempora deleniti repellendus praesentium aut ipsa accusantium impedit porro explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quae dicta autem distinctio nam facilis nemo earum enim quas ut.</p>
+                            <p>I create java developer who specializes in software engineering and web development to intergrate java into business software,applications and website</p>
                         </div>
                     </div>
                     <div className="home-card glass-blue">
@@ -33,7 +33,7 @@ class HomePage extends Component {
                         </div>
                         <div className="details">
                             <h3>Mobile App developer</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos illum tempora deleniti repellendus praesentium aut ipsa accusantium impedit porro explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quae dicta autem distinctio nam facilis nemo earum enim quas ut.</p>
+                            <p>I develop mobile apps for both Ios and Android. These app can be pre-installed on phones during developemt for testing</p>
                         </div>
                     </div>
                     <div className="home-card glass-blue">
@@ -42,7 +42,7 @@ class HomePage extends Component {
                         </div>
                         <div className="details">
                             <h3>Web Developer</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos illum tempora deleniti repellendus praesentium aut ipsa accusantium impedit porro explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quae dicta autem distinctio nam facilis nemo earum enim quas ut.</p>
+                            <p>I can create or develop world wide web applications using a client server model in any specified way. This include database side like E-commerce site or any static site with one to multiple page</p>
                         </div>
                     </div>
                     <div className="home-card glass-blue">
@@ -51,7 +51,7 @@ class HomePage extends Component {
                         </div>
                         <div className="details">
                             <h3>Systems Developer</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos illum tempora deleniti repellendus praesentium aut ipsa accusantium impedit porro explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quae dicta autem distinctio nam facilis nemo earum enim quas ut.</p>
+                            <p>As system developer i implement applications and programs for backend processing used in businessess or organisations.They are mostly used in online banking and HR systems</p>
                         </div>
                     </div>
                     <div className="home-card glass-blue">
@@ -60,7 +60,7 @@ class HomePage extends Component {
                         </div>
                         <div className="details">
                             <h3>Software Engineer</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos illum tempora deleniti repellendus praesentium aut ipsa accusantium impedit porro explicabo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quae dicta autem distinctio nam facilis nemo earum enim quas ut.</p>
+                            <p>I apply principles of analysis to figure out user requirements and the build ,design and test software appication according to those requirements</p>
                         </div>
                     </div>
                 </div>  
