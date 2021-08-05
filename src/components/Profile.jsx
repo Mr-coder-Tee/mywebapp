@@ -18,7 +18,7 @@ class Profile extends Component {
                     <div className="center-straight">
                         <div className="flex">
                             <img src={email} alt="" />
-                            <div><p><span className="archer">manaka@gmail</span></p></div>
+                            <div><p><span className="archer">tebatsoterrence.manaka@gmail</span></p></div>
                         </div>
                         <div className="flex">
                             <img src={phone} alt="" />

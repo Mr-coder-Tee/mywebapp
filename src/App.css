@@ -374,6 +374,7 @@ h3::after{
 
 
 @media (max-width:870px) {
+
   
   p{
       font-size: .8em;
@@ -417,8 +418,12 @@ h3::after{
   .btn{
     padding: .5em .5em;
   }
+  .details{
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
-@media (max-width:350px) {
+@media (max-width:450px) {
  
   p{
       font-size: .6em;
@@ -432,6 +437,10 @@ h3::after{
   }
   .btn{
     padding: .5em .5em;
+  }
+  .details{
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
