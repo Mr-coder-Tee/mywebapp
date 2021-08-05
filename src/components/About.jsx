@@ -20,11 +20,11 @@ import profile from "../images/profilepic.jpg";
             </div>
             <div className="profile">
                 <div className="header-div"><h3>Profile</h3></div>
-                <div className="padding"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dolore nisi, cumque ad eaque facilis facere officiis laborum. Odit repudiandae aut accusantium nostrum iusto tenetur ducimus esse quasi corporis reprehenderit! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus id animi minima ad ut. Ratione doloremque itaque excepturi animi aliquam.</p></div>
+                <div className="padding"><p>I am a computer science graduate of the University of Limpopo,but far more important to me a a coder. I solve problem and innovate solutions using computatonal skills.</p></div>
             </div>
             <div className="objective">
                 <div className="header-div"><h3>Objective</h3></div>
-                <div className="padding"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti a optio soluta temporibus mollitia officiis doloremque amet quibusdam veniam distinctio similique, fuga laborum nesciunt aliquid placeat inventore totam odit ab. Cupiditate eius tempora dignissimos! Vero rem quia explicabo dicta quod.</p></div>
+                <div className="padding"><p>The act of programming itsef can be very satifying and creative.For any particular problem there are lots of different ways you could write a problem to solve it.But a good program has certain beaty and elegance about it and an elegant program is easy for other people to understand and its also easy for you to extend and adapt later as requirement change. My goal is to be an elegent programmer</p></div>
             </div>
             <div className="education">
                 <div className="header-div"><h3>Education</h3></div>
